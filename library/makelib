@@ -1,0 +1,5 @@
+#! /bin/bash
+rm -rf lib2d.a
+make clean
+make lib
+make clean 
